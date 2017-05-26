@@ -1,5 +1,7 @@
 FROM vtor/dev-jdk8:latest
 
+MAINTAINER vt <vardants@gmail.com>
+
 ENV SCALA_VERSION 2.12.2
 ENV SBT_VERSION 0.13.15
 
